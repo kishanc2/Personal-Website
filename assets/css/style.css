@@ -302,6 +302,9 @@ main {
   #SIDEBAR
 \*-----------------------------------*/
 
+.circular--square { border-radius: 90%; }
+
+
 .sidebar {
   margin-bottom: 15px;
   max-height: 112px;
